@@ -4,5 +4,6 @@ members = [
     "hello_world",
     "hello_cargo",
     "guessing_game",
-    "new_variables"
+    "new_variables",
+    "functions"
 ]
