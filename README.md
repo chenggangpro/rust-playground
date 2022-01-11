@@ -8,4 +8,5 @@ playground with rustlings
 * [x] https://doc.rust-lang.org/book/print.html#common-programming-concepts
 * [x] https://doc.rust-lang.org/book/print.html#data-types
 * [x] https://doc.rust-lang.org/book/print.html#functions
-* [ ] https://doc.rust-lang.org/book/print.html#control-flow
+* [x] https://doc.rust-lang.org/book/print.html#control-flow
+* [ ] https://doc.rust-lang.org/book/print.html#understanding-ownership

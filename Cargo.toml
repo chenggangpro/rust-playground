@@ -5,5 +5,6 @@ members = [
     "hello_cargo",
     "guessing_game",
     "new_variables",
-    "functions"
+    "functions",
+    "flow_control"
 ]
