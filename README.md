@@ -11,6 +11,6 @@ playground with rustlings
 * [x] https://doc.rust-lang.org/book/print.html#functions
 #####`flow_control`
 * [x] https://doc.rust-lang.org/book/print.html#control-flow
-#####`flow_control`
+#####`ownership`
 * [x] https://doc.rust-lang.org/book/print.html#understanding-ownership
 * [ ] https://doc.rust-lang.org/book/print.html#ownership-and-functions
