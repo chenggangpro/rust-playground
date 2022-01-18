@@ -13,4 +13,6 @@ playground with rustlings
 * [x] https://doc.rust-lang.org/book/print.html#control-flow
 ##### `ownership`
 * [x] https://doc.rust-lang.org/book/print.html#understanding-ownership
-* [ ] https://doc.rust-lang.org/book/print.html#ownership-and-functions
+* [x] https://doc.rust-lang.org/book/print.html#ownership-and-functions
+* [x] https://doc.rust-lang.org/book/print.html#dangling-references
+* [ ] https://doc.rust-lang.org/book/print.html#the-slice-type
