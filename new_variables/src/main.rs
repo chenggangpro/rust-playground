@@ -8,7 +8,7 @@ fn main() {
     println!("The value of x is: {}", x);
     // constant
     const THREE_HOURS_IN_SECONDS: u32 = 60 * 60 * 3;
-    println!("Constant value is: {}",THREE_HOURS_IN_SECONDS.to_string());
+    println!("Constant value is: {}",THREE_HOURS_IN_SECONDS);
     //shadowed
     let x = 5;
     let x = x + 1;

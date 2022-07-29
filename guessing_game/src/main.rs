@@ -16,6 +16,7 @@ fn main() {
     let mut error_count: u32 = 0;
 
     loop {
+        guess.clear();
         io::stdin()
             .read_line(&mut guess)
             .expect("Failed to read line");
@@ -23,8 +24,8 @@ fn main() {
         let guess: u32 = match guess.trim().parse() {
             Ok(num) => num,
             Err(err) => {
-                println!("Please type a number! {}", err.to_string());
-                error_count = error_count + 1;
+                println!("Please type a number! {}", err);
+                error_count += 1;
                 if error_count >= 3 {
                     println!("Type non number for {} times , bye ~", error_count);
                     break;
